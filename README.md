@@ -1,5 +1,7 @@
 # Real-Time Analytics Sprint (AWS + Spark)
 
+Repo: https://github.com/benjaminschwab11-glitch/real-time-analytics-sprint
+
 Production-minded demos focused on reliable, observable data pipelines on AWS. Starting simple (Spark Core + SQL) and progressing to streaming with Kinesis, Glue/MWAA orchestration, and a small end-to-end capstone.
 
 ## Goals
